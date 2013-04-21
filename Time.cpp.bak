@@ -1,0 +1,19 @@
+#include <cmath>
+#include <ctime>
+#include <iostream>
+#include <string>
+#include <vector>
+using namespace std;
+
+class Time {
+public:
+  string whatTime( int seconds ) {
+
+  }
+};
+
+
+
+// Powered by FileEdit
+// Powered by moj 4.17 [modified TZTester]
+// Powered by CodeProcessor
