@@ -2,4 +2,5 @@ a.out
 tmp/*
 sandbox/*
 back/*
-*.back
+*.bak
+*.java
